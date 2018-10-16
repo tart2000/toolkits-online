@@ -1,0 +1,33 @@
+Title: Chester Beatty Library
+
+----
+
+Baseline: not just the best museum in Dublin, but one of the best in Europe
+
+----
+
+Theurl: http://www.cbl.ie/
+
+----
+
+Location: Dublin, Ireland
+
+----
+
+Header: chester.jpg
+
+----
+
+Logo: chester_logo.jpg
+
+----
+
+Text: 
+
+With free admission and described by the Lonely Planet as not just the best museum in Dublin, but one of the best in Europe, the Chester Beatty is a must-see on any Dublin visitor's itinerary.  As the only museum in Ireland to win 'European Museum of the Year', the Chester Beatty's rich collections from countries across Asia, the Middle East, North Africa and Europe open a window on the artistic treasures of the great cultures and religions of the world.
+ 
+Manuscripts, miniature paintings, prints, drawings, rare books and decorative arts complete this amazing collection - all the result of the collecting activities of one man - Sir Alfred Chester Beatty (1875-1968).  Egyptian papyrus texts, beautifully illuminated copies of the Qur'an, the Bible, European medieval and renaissance manuscripts are among the highlights on display. In its diversity, the collection captures much of the richness of human creative expression from about 2700 BC to the present day.
+
+----
+
+Tags: 

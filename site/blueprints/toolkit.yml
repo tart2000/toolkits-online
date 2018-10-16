@@ -1,0 +1,12 @@
+title: Toolkit
+pages: 
+  template: practice
+  hide: true
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  mysubpagelist:
+    label: Practices
+    type:  subpagelist

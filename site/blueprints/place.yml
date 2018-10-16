@@ -1,0 +1,39 @@
+title: Place
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  baseline: 
+    label: Baseline 
+    type: text 
+  theurl: 
+    label: Link
+    type: URL 
+    width: 1/2
+  location: 
+    label: Location
+    type: text
+    width: 1/2
+  header:
+    label: Header Image
+    type:  selector
+    mode:  single
+    types:
+      - image
+  logo: 
+    label: Place logo
+    type:  selector
+    mode:  single
+    types:
+      - image
+  text:
+    label: Text
+    type:  textarea
+  tags:
+    label: Spécificités
+    type: tags
+    lower: true
+    index: all
+  

@@ -1,0 +1,12 @@
+title: Toolkits
+pages: 
+  template: toolkit
+  hide: true
+files: false
+fields:
+  title:
+    label: Title
+    type:  text
+  mysubpagelist:
+    label: Toolkits
+    type:  subpagelist

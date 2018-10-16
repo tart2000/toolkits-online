@@ -1,0 +1,92 @@
+Prevnext: 
+
+----
+
+Title: diversify your services and facilities
+
+----
+
+Baseline: Make your space more welcoming
+
+----
+
+Acat: individual
+
+----
+
+Atime: 1 - 4
+
+----
+
+Amoney: 1 - 4
+
+----
+
+Aenergy: 1 - 4
+
+----
+
+Header: capscience.jpg
+
+----
+
+Goals: 
+
+- Improve the life of your makerspace
+- Help people understand directly what this space and its machines inside are about
+- Improve communication with potential users of the space
+- Use signage and decoration effectively so that it communicates with the visitor directly
+- Ensure that the space is functional but stylish
+
+----
+
+Process: 
+
+1. Ask yourself following questions: a. What is missing?
+b. What is unclear?
+c. What can be improved?
+2. Identify the strong and weak points of your makerspace 3. Work on the weak points and find solutions for them
+4. Get feedback from users
+5. Realise your solutions and implement them
+
+----
+
+Outputs: 
+
+1. A better organised and easy to identify makerspace 
+2. Makerspace is easier to use
+
+----
+
+Communication: No communication strategy needed, but you can use social media to get feedback or ideas from your community
+
+----
+
+Success: 
+
+- Positive feedback from users who know nothing about makerspaces and what they can be used for
+- More visitors use the makerspace
+
+----
+
+Example: improve your makerspace interior design
+
+----
+
+Exloc: 
+
+----
+
+Tips: 
+
+- 
+  tip: >
+    Think about your goals before building
+    or opening your makerspace
+- 
+  tip: >
+    ou can do it alone (if you know the
+    place and have some expertise in
+    mediation), but while alone you probably
+    work faster, with feedback of other
+    people you will get further

@@ -1,0 +1,116 @@
+Title: Create a meetup group
+
+----
+
+Text: 
+
+----
+
+Example: Museum lab meetup Group
+
+----
+
+Communication: 
+
+- Meetup.com provides tools for communication with your group members and promoting the group to other meetup.com users
+- Attending other meet-ups is an important method of making connections and promoting your own group
+- Meet-up events can easily be cross-posted to your personal and professional social media channels, as well as your institutions media channels
+- Meetup.com also provides a platform for storing and sharing images from your events
+
+----
+
+Process: 
+
+1. Identify how much approval you have/need from your institution. This will affect how you name, promote, and present your group
+2. Identify what your current ‘Space for Yes’ is and what you can offer your meet-up members
+3. Join other meetup groups for creative and technical people. Attend some of those meetups to see how they operate, who attends them, and develop relationships
+4. Come up with a name for your group
+5. Set up a meetup group on Meetup.com
+6. Pick a date (soon) for the first meeting
+7. Pick a location where your group can meet in the museum.
+If you have to meet outside the museum, include a museum
+visit in your first meeting
+8. Promote your first meeting heavily at other meetup groups 9. At the first meeting, ask your attendees: ‘What do you want
+from this group, and from your institution?’ Take notes on a
+whiteboard or flipchart
+10. On another whiteboard/notepad, ask your members to
+introduce themselves, and to list their interests/skills
+11. On another whiteboard/notepad, list everything in your museum’s ‘Space for Yes’, i.e. everything your institution has
+to offer members
+12. On a fourth pad, encourage your members to brainstorm
+intersections between their skills/interests and your ‘Space for Yes’. These intersections are the seeds of ideas for types of activities you can programme in future meet-ups
+13. At this first meet-up, set a date for your next meet-up, where you will engage in one of the activities you generated
+14. At the next meet-up, do the activity, and repeat the brainstorming activity so new members have an opportunity to participate
+15. After a few of these meet-ups, identify the most active members and encourage them to take a leadership role in the group
+
+----
+
+Atime: 1
+
+----
+
+Amoney: 1
+
+----
+
+Aenergy: 2
+
+----
+
+Header: meetup.jpg
+
+----
+
+Outputs: 
+
+1. A series of meetup events
+2. A membership list
+3. Media created at each meetup
+4. Results of projects generated at the meetup group 5. A social media profile for the group
+
+----
+
+Success: 
+
+- Monthly meetups that average 15-20 people can be considered highly successful
+- A good mix of regular and new members
+- 1 or 2 continuous projects that are maintained by members, at any given time, coming to completion roughly every 3 months
+- A membership that takes on leadership roles and serve as ambassadors for the group
+
+----
+
+Tips: 
+
+- 
+  tip: 'Be aware of the expectations of the audience: meetings can be as formal as presentations and panels, or as informal as drinks in a bar, workshops, or museum visits'
+- 
+  tip: >
+    Decide how much of your time you are
+    willing to put in outside of work hours?
+    Most of your meetings will be the
+    evenings
+- 
+  tip: >
+    Encourage your members to bring food and
+    drinks to share with the group
+
+----
+
+Acat: team
+
+----
+
+Baseline: Turn your museum into a gathering space
+
+----
+
+Goals: 
+
+- Use an established online tool (in this case Meetup.com) to create a new community
+- Connect with communities that are interested in creative and experimental use of your collection
+- Give outsiders a creative stake in your institution, and a sense that their voices are heard
+- Maintain those relationships and scale the interaction models you develop
+
+----
+
+Exloc: 

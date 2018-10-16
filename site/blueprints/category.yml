@@ -1,0 +1,17 @@
+title: Category
+pages: false
+files: false
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 1/2
+  fas: 
+    label: Font Awesome code
+    type: text
+    width: 1/4
+  col: 
+    label: Color 
+    type: color 
+    width: 1/4
+

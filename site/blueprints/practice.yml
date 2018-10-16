@@ -1,0 +1,74 @@
+title: Practices
+pages: false
+files: true
+fields:
+  prevnext: 
+    type: prevnext
+  title:
+    label: Title
+    type:  text
+  baseline: 
+    label: Baseline 
+    type: text 
+  acat: 
+    label: Category 
+    type: select
+    options: query
+    query: 
+      page: categories
+    width: 1/4
+  atime: 
+    label: Time 
+    type: text 
+    width: 1/4 
+  amoney:
+    label: Money 
+    type: text
+    width: 1/4 
+  aenergy: 
+    label: Energy 
+    type: text
+    width: 1/4 
+  header:
+    label: Header Image
+    type:  selector
+    mode:  single
+    types:
+      - image
+  goals: 
+    label: Goals 
+    type: textarea
+  process: 
+    label: Process 
+    type: textarea
+  outputs: 
+    label: Outputs 
+    type: textarea 
+  communication: 
+    label: Communication strategy 
+    type: textarea
+  success:
+    label: Measure for success
+    type: textarea
+  example:
+    label: Example 
+    type: text 
+    width: 3/4
+  exloc: 
+    label: Example location 
+    type: select
+    options: query 
+    query: 
+      page: places
+    width: 1/4
+  tips: 
+    label: Tips
+    type: structure
+    entry: >
+      {{tip}}
+    fields: 
+      tip: 
+        label: Tip 
+        type: text 
+
+
