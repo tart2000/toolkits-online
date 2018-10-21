@@ -58,3 +58,13 @@ a .badge {
 .subtle {
 	color: rgba(0,0,0,0.2);
 }
+.dl-btn {
+	position: absolute;
+	bottom: 20px;
+	left: 30px;
+}
+blockquote {
+	font-style: italic;
+	border-left: solid 2px #90979e;
+	padding-left: 7px;
+}

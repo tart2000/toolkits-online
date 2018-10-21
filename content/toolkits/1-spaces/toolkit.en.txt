@@ -3,3 +3,23 @@ Title: Spaces
 ----
 
 Mysubpagelist: 
+
+----
+
+Description: 
+
+In recent years the role of museums has undergone a radical shift from heritage repository to public service and social agent, emphasising their role in education and as a platform for dialogue, creativity and innovation.
+Nowadays, museums are expected to be resilient organisations in the sense that they are supposed to have the ability to anticipate, respond and adapt to societal changes in order to survive and prosper.
+
+However, while we cannot reinvent the museum as a lean, agile start-up, we can re-consider the role of the museum in the larger creative economy, and look for opportunities to demonstrate new value in a way that ameliorates risk and respects the institutional priorities and mission. We can do this by creating ‘adjacent museum contexts’, parts of the museum where the expectations are different, the consequences of failure are minimised or reversed, and decisions can be made quickly.
+Museums that implement these practices sometimes call these spaces ‘Labs’, ‘incubators’ or ‘makerspaces’. These terms imply a level of investment that can be intimidating for a many museums. We think it is possible to start small, develop informally, learn about your institution’s unique value, and build a set of initiatives, programmes, and roles that best leverage and serve the creative economy. We call these new contexts ‘Spaces for Yes’, because in these spaces, it is easy to say ‘yes’ to new ideas, ‘yes’ to new relationships, and ‘yes’ to innovation.
+
+This Toolkit offers a series of 18 inspiring tools that will help you to better understand what is a ‘Space for Yes’ and to be able to design and implement one in your museum.
+
+----
+
+Fa: 
+
+----
+
+Baseline: Spaces for yes

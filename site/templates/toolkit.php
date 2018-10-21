@@ -2,8 +2,9 @@
 
 <div class="container pt-3 pb-3">
 	<h1><?php echo $page->title()->html() ?></h1>
-	<?= $page->text()->kirbytext() ?>
-
+	<?= $page->description()->kirbytext() ?>
+</div>
+<div class="container pt-3 pb-3">
 
 	<ul class="row feature-list feature-list-sm">
     	<?php foreach ($page->children()->sortBy('acat') as $practice) : ?>

@@ -16,7 +16,7 @@
             <p class="card-text italic"><?= $practice->baseline() ?></p>
         </a>
     </div>
-    <div class="card-footer card-footer-borderless d-flex justify-content-between">
+    <div class="card-footer card-footer-borderless d-flex justify-content-betwee pb-3">
         <div class="text-small">
             <?= snippet ('meta-icons', array('page' => $practice)) ?>
         </div>

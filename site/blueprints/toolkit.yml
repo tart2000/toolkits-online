@@ -7,6 +7,17 @@ fields:
   title:
     label: Title
     type:  text
+    width: 1/2
+  fa: 
+    label: Font Awesome icon
+    type: text
+    width: 1/2 
+  baseline: 
+    label: Baseline 
+    type: text
+  description: 
+    label: Description 
+    type: textarea
   mysubpagelist:
     label: Practices
     type:  subpagelist
